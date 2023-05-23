@@ -1,0 +1,15 @@
+.gCards{
+    gap: 3rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+#inputGroupSelect{
+    width: 16rem;
+    height: 2rem;
+    background-color: #abada5cc;
+    margin: 10px;
+    margin-left: 29px;
+}

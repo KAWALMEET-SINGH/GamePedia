@@ -1,0 +1,26 @@
+.ctainer{
+    padding-top:10px ;
+    background-color: #e6efd5;
+    height: 180vh;
+    gap: 5px;
+}
+.headings{
+    height: 9rem;
+}
+
+.desc{
+    height: 6rem;
+}
+.sysReq{
+    height: 3rem;
+}
+.sysDet{
+    height: 2rem;
+}
+.carousel{
+    height: 50rem;
+    padding-top: 3rem;
+}
+.d-block{
+    height: 700px;
+}
